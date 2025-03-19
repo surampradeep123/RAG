@@ -1,0 +1,7 @@
+ipykernel
+pandas
+pymupdf
+langchain
+Ollama
+pinecone
+langchain-ollama
